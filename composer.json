@@ -3,3 +3,4 @@
         "phpunit/phpunit": "9"
     }
 }
+git remote add origin https://github.com/ibehnoosh/blog.git
